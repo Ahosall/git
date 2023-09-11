@@ -153,6 +153,6 @@ Em seguida, faça o push novamente com o comando `git push`.
 
 ---
 
-<center>
+<div align="center">
   <div>Made with 🤍 by Ahosall (Feh's)</div>
-</center>
+</div>
